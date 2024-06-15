@@ -4,7 +4,8 @@
 
 I'm a passionate Computer Science & Design student who loves crafting intuitive user interfaces and building scalable web applications. I'm fueled by curiosity, always exploring new technologies, and eager to contribute to impactful projects.
 
-<img align="right" alt="Anurag Coding" width="350" src="https://github.com/Anurag-Gaddamwar/Anurag-Gaddamwar/blob/main/Coding.jpg">
+![Uploading joshua-reddekopp-SyYmXSDnJ54-unsplash.jpg…]()
+
 
 🚀 **About Me**
 
