@@ -1,4 +1,4 @@
-# Hi there, I'm Anurag Gaddamwar 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+# Hi there, I'm Anurag Gaddamwar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
 [![GitHub followers](https://img.shields.io/github/followers/Anurag-Gaddamwar?style=social&label=Follow&logo=github)](https://github.com/Anurag-Gaddamwar)  [![GitHub stars](https://img.shields.io/github/stars/Anurag-Gaddamwar?style=social&label=Star&logo=github)](https://github.com/Anurag-Gaddamwar)
 
