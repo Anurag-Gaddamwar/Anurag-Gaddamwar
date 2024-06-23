@@ -30,25 +30,6 @@ I'm a passionate Computer Science & Design student who loves crafting intuitive 
 - **Databases:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30px"> MongoDB, SQL
 - **Cloud:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30px"> AWS (Honors in AWS & DevOps)
 
-💼 **Experience**
-
-- **PwC Launchpad Trainee (Feb 2024 - Present):**
-  - Earned micro-certifications in IT fundamentals, RDBMS (Oracle), Java, responsive web design, DevOps, cloud fundamentals, and programming fundamentals.
-
-- **Graphic Design Intern at Futurus, Gurugram (Sept 2023 - Nov 2023):**
-  - Designed impactful social media graphics for Instagram, LinkedIn, and YouTube.
-  - Received a Letter of Recommendation for outstanding performance.
-
-🏆 **Featured Projects**
-
-- **Cypher AI (Feb 2024):**  AI-powered platform for interview preparation and resume analysis using Gemini API.
-  - **Tech Stack:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px"> Next.js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px"> React, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px"> Node.js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30px"> MongoDB
-
-- **EVOLVE: YouTube Optimizer (Sept 2023):** Web app for summarizing audience feedback and providing content recommendations to YouTubers.
-  - **Tech Stack:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px"> Next.js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30px"> MongoDB, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px"> Node.js
-
-- **DU GUIDEBOOK (Oct 2023):** A visually engaging digital magazine showcasing life at Delhi University.
-  - **Tools:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px"> Illustrator, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30px"> Photoshop, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30px"> Canva
 
 📈 **GitHub Stats**
 
