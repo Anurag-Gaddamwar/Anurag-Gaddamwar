@@ -10,7 +10,7 @@ I'm a passionate Computer Science & Design student who loves crafting intuitive 
 
 <p align="center"> 
   Visitor count<br>
-  ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Anurag-Gaddamwar/&title=Visitor%20Count&edge_flat=true)
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Anurag-Gaddamwar/&title=Visitor%20Count&edge_flat=true">
 </p>
 
 ---
