@@ -49,8 +49,9 @@ I'm a passionate Computer Science & Design student who loves crafting intuitive 
 
 ## 📈 GitHub Stats
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag-Gaddamwar&show_icons=true&theme=radical&bg_color=30,e96443,904e95)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Gaddamwar&layout=compact&theme=radical&bg_color=30,e96443,904e95)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag-Gaddamwar&show_icons=true&theme=radical&bg_color=DEG,330033,660066)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Gaddamwar&layout=compact&theme=radical&bg_color=DEG,330033,660066)
+
 
 
 ---
