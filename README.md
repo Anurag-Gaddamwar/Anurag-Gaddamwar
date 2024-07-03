@@ -45,7 +45,6 @@ I'm a passionate Computer Science & Design student who loves crafting intuitive 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40px" height="40px">
 </p>
 
-
 ---
 
 ## 📈 GitHub Stats
