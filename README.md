@@ -6,6 +6,14 @@
 
 I'm a passionate Computer Science & Design student who loves crafting intuitive user interfaces and building scalable web applications. I'm fueled by curiosity, always exploring new technologies, and eager to contribute to impactful projects.
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+
 ---
 
 ## 🚀 About Me
