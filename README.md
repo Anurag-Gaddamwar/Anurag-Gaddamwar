@@ -6,7 +6,6 @@
 
 I'm a passionate Computer Science & Design student who loves crafting intuitive user interfaces and building scalable web applications. I'm fueled by curiosity, always exploring new technologies, and eager to contribute to impactful projects.
 
-
 ---
 
 ## 🚀 About Me
@@ -57,6 +56,7 @@ I'm a passionate Computer Science & Design student who loves crafting intuitive 
 ## 📈 GitHub Stats
 
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag-Gaddamwar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Gaddamwar&layout=compact&theme=radical)
 
 ---
 
