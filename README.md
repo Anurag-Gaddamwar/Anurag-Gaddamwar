@@ -42,7 +42,7 @@ I'm a passionate Computer Science & Design student who loves crafting intuitive 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" height="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" height="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" height="40px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40px" height="40px">
+  <img src="https://simpleicons.org/icons/amazonwebservices.svg" alt="AWS" width="40px" height="40px">
 </p>
 
 ---
