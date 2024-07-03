@@ -23,18 +23,18 @@ I'm a passionate Computer Science & Design student who loves crafting intuitive 
 ## 🎨 Design & Front-End Mastery
 
 - **Languages:**
-  - ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg =30x30) HTML
-  - ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg =30x30) CSS
-  - ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =30x30) JavaScript (ES6+)
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" height="30px"> HTML
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" height="30px"> CSS
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" height="30px"> JavaScript (ES6+)
 - **Frameworks & Libraries:**
-  - ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg =30x30) React
-  - ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg =30x30) Next.js
-  - ![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg =30x30) Tailwind CSS
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" height="30px"> React
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px" height="30px"> Next.js
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30px" height="30px"> Tailwind CSS
 - **Design Tools:**
-  - ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg =30x30) Figma
-  - ![Canva](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg =30x30) Canva
-  - ![Photoshop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg =30x30) Photoshop
-  - ![Illustrator](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg =30x30) Illustrator
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" height="30px"> Figma
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30px" height="30px"> Canva
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30px" height="30px"> Photoshop
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px" height="30px"> Illustrator
 - **Other:**
   - Responsive Design
   - UI/UX Principles
@@ -45,13 +45,13 @@ I'm a passionate Computer Science & Design student who loves crafting intuitive 
 ## 💻 Full-Stack Ambitions
 
 - **Backend (Learning):**
-  - ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) Node.js
-  - ![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) Express.js
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" height="30px"> Node.js
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30px" height="30px"> Express.js
 - **Databases:**
-  - ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) MongoDB
-  - ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) SQL
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30px" height="30px"> MongoDB
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" height="30px"> SQL
 - **Cloud:**
-  - ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) AWS (Honors in AWS & DevOps)
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30px" height="30px"> AWS (Honors in AWS & DevOps)
 
 ---
 
