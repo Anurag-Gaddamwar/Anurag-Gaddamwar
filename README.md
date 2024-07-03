@@ -6,7 +6,6 @@
 
 I'm a passionate Computer Science & Design student who loves crafting intuitive user interfaces and building scalable web applications. I'm fueled by curiosity, always exploring new technologies, and eager to contribute to impactful projects.
 
-![joshua-reddekopp-SyYmXSDnJ54-unsplash](https://github.com/Anurag-Gaddamwar/Anurag-Gaddamwar/assets/123613177/c723f607-5443-42e2-abf7-e9f92aecde80)
 
 ---
 
