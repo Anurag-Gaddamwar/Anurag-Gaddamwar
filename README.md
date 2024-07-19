@@ -12,10 +12,9 @@ I'm a passionate Computer Science & Design student who loves crafting intuitive 
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science & Design (2021-2025) at Yeshwantrao Chavan College of Engineering, Nagpur (9.1 CGPA)
-- 🔭 Currently working on: Cypher AI, an AI-powered interview and resume preparation platform.
+- 🎓 B.Tech in Computer Science & Design (2021-2025) at Yeshwantrao Chavan College of Engineering, Nagpur (9.18 CGPA)
 - 🌱 Currently learning: Node.js & Express.js to level up my backend skills.
-- 💬 Ask me about: React, Next.js, Figma, AWS, or anything front-end related!
+- 💬 Ask me about: React, Next.js, Figma, or anything front-end related!
 - 📫 Reach me at: gaddamwaranurag@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/anurag-gaddamwar/)
 
 ---
