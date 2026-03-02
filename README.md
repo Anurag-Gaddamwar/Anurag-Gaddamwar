@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Anurag-Gaddamwar/Anurag-Gaddamwar/raw/main/assets/banner.svg" alt="sailboat" width="100%" />
-</p>
+</p> -->
 
 # Hey there, I'm **Anurag** 👋
 
