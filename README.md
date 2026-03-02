@@ -82,7 +82,7 @@ I design contextual AI assistants, automation flows, and analytics-ready data pr
 
 <p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=Anurag-Gaddamwar&theme=radical&hide_border=true" alt="GitHub Streak" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Gaddamwar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anurag-Gaddamwar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
