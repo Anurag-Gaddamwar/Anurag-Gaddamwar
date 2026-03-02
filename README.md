@@ -1,11 +1,23 @@
 # Hi, I'm Anurag Gaddamwar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 
+```
+ ⛵ Currently charting the waters between data engineering, GenAI, and delightful UX.
+```
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://anuraggaddamwar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-gaddamwar/)
 [![Email](https://img.shields.io/badge/Email-gaddamwaranurag%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaddamwaranurag@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Anurag-Gaddamwar?style=social&label=Follow)](https://github.com/Anurag-Gaddamwar)
 
 `Digital Specialist Engineer @ Infosys • Pune • Data & GenAI + Web`
+
+<details>
+	<summary><strong>TL;DR / Elevator Pitch</strong></summary>
+  
+	- I stitch together Flowise agents, Azure OpenAI, and clean datasets to automate test lifecycles and educator workflows.
+	- I build dashboards and APIs that make AI adoption measurable (and governable) across enterprise portfolios.
+	- I obsess over UX details—keyboard physics on mobile, accessible animations, responsive canvases.
+</details>
 
 I design contextual AI assistants, automation flows, and analytics-ready data products that actually get adopted. Lately I've been:
 
@@ -40,20 +52,20 @@ I design contextual AI assistants, automation flows, and analytics-ready data pr
 
 ## 🔦 Project Spotlight
 
-### Evolve – Conversational AI Workbench
+### ✨ Evolve – Conversational AI Workbench
 - Next.js app + custom Node server powering Groq, YouTube, and Gemini services.
 - Chat history persistence, multi-device keyboard fixes, and polished UI/UX for both desktop and mobile.
 - Built-in auth flows (signup/login/reset), analytics route, and profile management backed by MongoDB/Mongoose.
 
-### AI Adoption Dashboard for IQE (Infosys)
+### 📊 AI Adoption Dashboard for IQE (Infosys)
 - React + Node.js stack with RBAC, PM/DM workflow automation, and PostgreSQL governance.
 - Gives leadership visibility into AI portfolios, onboarding velocity, and time saved.
 
-### Interview Preparation Platform
+### 🧠 Interview Preparation Platform
 - Generates ATS feedback, learning roadmaps, and conversational guidance for job seekers.
 - Optimized with dynamic imports, code-splitting, skeleton states, and accessible UI patterns.
 
-### Adaptive Educator Agent & Flowise Test Automation
+### 🤖 Adaptive Educator Agent & Flowise Test Automation
 - RAG-powered assessment agent with session memory in MySQL.
 - Flowise iterator flows generate scenarios, cases, and automation scripts from JIRA narratives.
 
@@ -68,8 +80,10 @@ I design contextual AI assistants, automation flows, and analytics-ready data pr
 
 ## 📊 GitHub Snapshot
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag-Gaddamwar&show_icons=true&theme=radical&bg_color=DEG,2C0735,0B0033&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Gaddamwar&layout=compact&theme=radical&bg_color=DEG,2C0735,0B0033&hide_border=true)
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=Anurag-Gaddamwar&theme=radical&hide_border=true" alt="GitHub Streak" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Gaddamwar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
