@@ -15,7 +15,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-📁?style=flat&logo=vercel&logoColor=white)](https://anuraggaddamwar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-📇?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-gaddamwar/)
 [![Email](https://img.shields.io/badge/Email-✉️?style=flat&logo=gmail&logoColor=white)](mailto:gaddamwaranurag@gmail.com)
-[![Followers](https://img.shields.io/github/followers/Anurag-Gaddamwar?style=social&label=Follow)](https://github.com/Anurag-Gaddamwar)
 
 ---
 
