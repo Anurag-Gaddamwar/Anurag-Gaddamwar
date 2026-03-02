@@ -1,57 +1,61 @@
 # Hi, I'm Anurag Gaddamwar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2C0735?style=flat&logo=vercel&logoColor=white)](https://anuraggaddamwar.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat&logo=vercel&logoColor=white)](https://anuraggaddamwar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-gaddamwar/)
 [![Email](https://img.shields.io/badge/Email-gaddamwaranurag%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaddamwaranurag@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Anurag-Gaddamwar?style=social&label=Follow)](https://github.com/Anurag-Gaddamwar)
 
-> Digital Specialist Engineer @ Infosys · Pune, India · Data & GenAI + Web Engineering
+`Digital Specialist Engineer @ Infosys • Pune • Data & GenAI + Web`
 
-I help teams ship contextual AI assistants, automation flows, and analytics-ready data products. Over the last year I've:
+I design contextual AI assistants, automation flows, and analytics-ready data products that actually get adopted. Lately I've been:
 
-- Built RAG-driven agent workflows (Flowise + Azure OpenAI) for test lifecycle automation and adaptive learning companions.
-- Designed PySpark / SQL / MongoDB pipelines that keep multi-format datasets clean, validated, and ready for downstream analytics.
-- Delivered React/Next.js dashboards and Node.js APIs that make AI adoption measurable across enterprise units.
-
----
-
-## 🔭 What I'm Focused On
-
-- **AI Adoption Dashboard @ Infosys (2026)** – governing usage, RBAC, REST workflows, and PostgreSQL-backed reporting for the IQE unit.
-- **Interview Preparation Platform (Personal)** – ATS-aware resume insights, skill roadmaps, and polished UX with Next.js 13/16 + Tailwind.
-- **Agentic Automation** – Flowise v2 multi-agent flows that turn JIRA stories into URS/FRS/test scripts with downloadable artifacts.
+- Orchestrating Flowise + Azure OpenAI agents for test lifecycle automation, adaptive learning, and MCQ generation.
+- Keeping multi-format data squeaky clean with PySpark, SQL, MongoDB, and UNIX batch pipelines.
+- Shipping React/Next.js dashboards and Node.js APIs so AI programs are measurable, governable, and actionable.
 
 ---
 
-## 🧰 Tech I Reach For Often
+## 🌌 Currently Shipping
 
-| Area | Stack |
+| Initiative | TL;DR |
 | --- | --- |
-| Programming | Python, TypeScript/JavaScript |
-| Data & Pipelines | SQL, PySpark, MongoDB, UNIX tooling |
-| Generative AI | RAG, Azure OpenAI embeddings, Flowise v2, Model Context Protocol |
-| Web & Cloud | React, Next.js, Node.js, REST APIs, Render, Vercel, Railway |
-| Tooling | Git/GitHub, GitHub Copilot, Postman, Excel (analysis) |
+| **AI Adoption Dashboard · Infosys (2026)** | Central nervous system for AI initiatives inside IQE – RBAC, PM/DM automations, PostgreSQL reporting, leadership-ready insights. |
+| **Interview Preparation Platform · Personal** | Full-stack AI career coach (Next.js 16 + Tailwind). ATS scoring, roadmap generation, 60% lighter bundles via dynamic imports + system fonts. |
+| **Evolve · Personal** | End-to-end GenAI companion built with Next.js + Node backend. Includes responsive chat canvas, session persistence, mobile-first keyboard handling, and bot APIs hooked to Groq/YouTube/Gemini integrations. |
+| **Flowise Agentic Automations** | JIRA → URS/FRS/test plans + scripts. Multi-agent Flowise v2 flows, custom function nodes, HTML/DOCX/CSV packages out of the box. |
 
 ---
 
-## 🏗️ Selected Work
+## ⚙️ Stacks & Superpowers
 
-### AI Adoption Dashboard for IQE (Infosys, 2026)
-- React + Node.js experience with RBAC, PM/DM automation flows, and PostgreSQL governance.
-- Unlocks portfolio visibility and saves leadership cycles with curated analytics views.
+| Layer | Favorite Tools |
+| --- | --- |
+| Programming | Python · TypeScript/JavaScript |
+| Data Engineering | SQL · PySpark · MongoDB · UNIX automations |
+| Generative AI | RAG · Azure OpenAI embeddings · Flowise v2 · Model Context Protocol |
+| Web / Deploy | React · Next.js · Node.js · REST · Render · Vercel · Railway |
+| Productivity | Git/GitHub · Copilot · Postman · Excel (analysis) |
 
-### Interview Preparation Platform (Personal, in progress)
-- Full-stack AI career coach: ATS scoring, roadmap generation, and responsive UX.
-- Next.js + Tailwind, Axios REST integration, dynamic imports, and bundle optimization (~60% reduction).
+---
 
-### Flowise Agent Flow – Test Lifecycle Automation (Infosys, 2025)
-- Multi-agent RAG system that ingests JIRA stories and outputs URS/FRS/test plans plus automation scripts.
-- Custom function nodes consolidate deliverables into downloadable HTML, DOCX, and CSV packages.
+## 🔦 Project Spotlight
 
-### Adaptive Educator Agent (Infosys, 2025)
-- Flowise + Azure OpenAI + RAG toolset to create MCQs, topic summaries, and personalized feedback.
-- Persisted learner context and scoring with MySQL-backed agent memory.
+### Evolve – Conversational AI Workbench
+- Next.js app + custom Node server powering Groq, YouTube, and Gemini services.
+- Chat history persistence, multi-device keyboard fixes, and polished UI/UX for both desktop and mobile.
+- Built-in auth flows (signup/login/reset), analytics route, and profile management backed by MongoDB/Mongoose.
+
+### AI Adoption Dashboard for IQE (Infosys)
+- React + Node.js stack with RBAC, PM/DM workflow automation, and PostgreSQL governance.
+- Gives leadership visibility into AI portfolios, onboarding velocity, and time saved.
+
+### Interview Preparation Platform
+- Generates ATS feedback, learning roadmaps, and conversational guidance for job seekers.
+- Optimized with dynamic imports, code-splitting, skeleton states, and accessible UI patterns.
+
+### Adaptive Educator Agent & Flowise Test Automation
+- RAG-powered assessment agent with session memory in MySQL.
+- Flowise iterator flows generate scenarios, cases, and automation scripts from JIRA narratives.
 
 ---
 
@@ -69,6 +73,6 @@ I help teams ship contextual AI assistants, automation flows, and analytics-read
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Collaborate
 
-I'm always up for discussing GenAI workflows, data engineering patterns, or frontend polish. Reach out via [email](mailto:gaddamwaranurag@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anurag-gaddamwar/). Let's build contextual AI experiences together! 🚀
+Always up to jam on GenAI workflows, data engineering playbooks, or ambitious frontends. Drop a note via [email](mailto:gaddamwaranurag@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anurag-gaddamwar/). Let's build bold, contextual AI experiences together. 🚀
