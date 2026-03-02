@@ -49,14 +49,6 @@
 
 ---
 
-## 💡 Fun Facts
-- 🎮 Reached **Grandmaster** on chess.com in 2025
-- ☕ Drink 2 cups of filter coffee before **8 AM** every weekday
-- 🔭 Amateur astrophotography addict – check out [my nebula shots](https://instagram.com/astroanurag)
-- 🎶 Currently vibing to _Lo-fi beats_ while I code
-
----
-
 ## 🔦 Project Spotlight
 
 | Initiative | TL;DR |
