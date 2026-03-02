@@ -122,24 +122,6 @@
 
 ---
 
-## 🌟 Extras
-
-<details>
-<summary>📜 Random Quote</summary>
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
-</details>
-
-<details>
-<summary>🎮 Currently Playing</summary>
-
-* Celeste (again) – climbing one pixel at a time
-
-</details>
-
----
-
 ## 🤝 Let's Build Something
 
 Feel free to open an issue, ping me on Twitter, or just say hi. Always game for collabs on GenAI workflows, data pipelines, or any wild front-end idea.
